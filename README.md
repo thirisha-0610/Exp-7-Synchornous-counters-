@@ -40,12 +40,19 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 4-bit Count Down counter Procedure write all the steps involved
 
 1.Create a new project in Quartus2 software.
+
 2.Name the project as uc for uppercounter and dc for downcounter.
+
 3.Create a new verilog hd file in the project file.
+
 4.Name the module declares as dc and uc for down counter and up counter.
+
 5.Within the module declare input and output variables.
+
 6.Create a loop using if-else with condition parameter as reset.
+
 7.End the loop.
+
 8.End the module.
 
 ### PROGRAM 
